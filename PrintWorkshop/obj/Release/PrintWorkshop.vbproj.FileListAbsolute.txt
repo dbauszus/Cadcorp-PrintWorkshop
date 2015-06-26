@@ -1,0 +1,16 @@
+C:\Users\dennisb\Documents\Visual Studio 2010\Projects\PrintWorkshop\PrintWorkshop\bin\Release\Cadcorp.Add-In.PrintWorkshop.dll
+C:\Users\dennisb\Documents\Visual Studio 2010\Projects\PrintWorkshop\PrintWorkshop\bin\Release\Cadcorp.Add-In.PrintWorkshop.pdb
+C:\Users\dennisb\Documents\Visual Studio 2010\Projects\PrintWorkshop\PrintWorkshop\bin\Release\Cadcorp.Add-In.PrintWorkshop.xml
+C:\Users\dennisb\Documents\Visual Studio 2010\Projects\PrintWorkshop\PrintWorkshop\bin\Release\Cadcorp.SIS.GisLink.Library.dll
+C:\Users\dennisb\Documents\Visual Studio 2010\Projects\PrintWorkshop\PrintWorkshop\bin\Release\itextsharp.dll
+C:\Users\dennisb\Documents\Visual Studio 2010\Projects\PrintWorkshop\PrintWorkshop\obj\Release\ResolveAssemblyReference.cache
+C:\Users\dennisb\Documents\Visual Studio 2010\Projects\PrintWorkshop\PrintWorkshop\obj\Release\PrintWorkshop.Dialog_Table.resources
+C:\Users\dennisb\Documents\Visual Studio 2010\Projects\PrintWorkshop\PrintWorkshop\obj\Release\PrintWorkshop.Dialog_OverlayLegend.resources
+C:\Users\dennisb\Documents\Visual Studio 2010\Projects\PrintWorkshop\PrintWorkshop\obj\Release\PrintWorkshop.Resources.resources
+C:\Users\dennisb\Documents\Visual Studio 2010\Projects\PrintWorkshop\PrintWorkshop\obj\Release\PrintWorkshop.Dialog_Label.resources
+C:\Users\dennisb\Documents\Visual Studio 2010\Projects\PrintWorkshop\PrintWorkshop\obj\Release\PrintWorkshop.Dialog_Book.resources
+C:\Users\dennisb\Documents\Visual Studio 2010\Projects\PrintWorkshop\PrintWorkshop\obj\Release\GenerateResource.read.1.tlog
+C:\Users\dennisb\Documents\Visual Studio 2010\Projects\PrintWorkshop\PrintWorkshop\obj\Release\GenerateResource.write.1.tlog
+C:\Users\dennisb\Documents\Visual Studio 2010\Projects\PrintWorkshop\PrintWorkshop\obj\Release\Cadcorp.Add-In.PrintWorkshop.dll
+C:\Users\dennisb\Documents\Visual Studio 2010\Projects\PrintWorkshop\PrintWorkshop\obj\Release\Cadcorp.Add-In.PrintWorkshop.xml
+C:\Users\dennisb\Documents\Visual Studio 2010\Projects\PrintWorkshop\PrintWorkshop\obj\Release\Cadcorp.Add-In.PrintWorkshop.pdb
